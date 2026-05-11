@@ -1,0 +1,11 @@
+# Day 02 - Check Even or Odd in Java
+
+This Java program checks whether a number is even or odd using the modulus operator `%`.
+
+## Concepts Used
+- if-else statement
+- Modulus operator
+- Conditional checking
+
+## Output
+Odd
