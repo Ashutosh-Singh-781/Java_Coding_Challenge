@@ -1,1 +1,9 @@
+# Day 04 - Sum of Array Elements in Java
 
+This Java program calculates the sum of all elements present in an array.
+
+## Concepts Used
+- Arrays
+- for loop
+- Array traversal
+- Addition logic
