@@ -1,1 +1,9 @@
+# Day 05 - Fibonacci Series in Java
 
+This Java program prints the Fibonacci series using a for loop.
+
+## Concepts Used
+- for loop
+- Variables
+- Sequence generation
+- Fibonacci logic
