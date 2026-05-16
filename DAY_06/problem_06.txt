@@ -1,1 +1,13 @@
+# Day 06 - Area of Rectangle in Java
 
+This Java program calculates the area of a rectangle using user input.
+
+## Concepts Used
+- Scanner class
+- User input
+- Variables
+- Arithmetic operations
+
+## Formula
+
+Area = length × breadth
