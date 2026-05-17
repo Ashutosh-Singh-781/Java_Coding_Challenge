@@ -1,1 +1,19 @@
+give me markdown
+# Day 07 - Prime Number Check in Java
 
+This Java program checks whether a number is prime or not using loops and conditional statements.
+
+## Concepts Used
+- Scanner class
+- for loop
+- if-else
+- boolean variable
+- Modulus operator
+
+## Prime Number Logic
+
+A prime number has only two factors:
+- 1
+- itself
+
+If the number is divisible by any number between 2 and n-1, then it is not prime.
