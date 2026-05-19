@@ -1,1 +1,9 @@
+# Day 09 - Armstrong Number in Java
 
+This Java program checks whether a number is an Armstrong number or not.
+
+## Concepts Used
+- while loop
+- modulus operator
+- digit extraction
+- arithmetic operations
