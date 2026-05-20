@@ -1,1 +1,9 @@
+# Day 10 - Reverse a Number in Java
 
+This Java program reverses a given number using a while loop.
+
+## Concepts Used
+- while loop
+- modulus operator
+- division operator
+- number reversing logic
