@@ -1,1 +1,8 @@
+# Day 11 - Count Digits in Java
 
+This Java program counts the total number of digits present in a number.
+
+## Concepts Used
+- while loop
+- division operator
+- counting logic
