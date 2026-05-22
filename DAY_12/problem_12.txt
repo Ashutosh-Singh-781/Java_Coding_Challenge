@@ -1,1 +1,9 @@
+# Day 12 - Sum of Digits in Java
 
+This Java program calculates the sum of digits of a number.
+
+## Concepts Used
+- while loop
+- modulus operator
+- division operator
+- digit extraction
