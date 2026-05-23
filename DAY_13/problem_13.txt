@@ -1,1 +1,9 @@
+# Day 13 - Largest Element in Array in Java
 
+This Java program finds the largest element in an array.
+
+## Concepts Used
+- Arrays
+- for loop
+- if statement
+- comparison logic
