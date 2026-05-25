@@ -1,1 +1,10 @@
+# Day 15 - Linear Search in Java
 
+This Java program performs Linear Search in an array.
+
+## Concepts Used
+- Arrays
+- for loop
+- searching logic
+- if statement
+- boolean variable
